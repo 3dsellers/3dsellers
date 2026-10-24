@@ -6,7 +6,7 @@
 
 ## For developers and AI assistants
 
-- **[3Dsellers MCP Server](https://github.com/3dsellers/3dsellers-mcp)** - a hosted MCP server that connects Claude, ChatGPT, Cursor, VS Code and other AI assistants to your stores. Server URL: `https://api.3dsellers.com/mcp`
+- **[3Dsellers MCP Server](https://github.com/3dsellers/ebay-mcp-server)** - a hosted MCP server that connects Claude, ChatGPT, Cursor, VS Code and other AI assistants to your stores. Server URL: `https://api.3dsellers.com/mcp`
 - **[REST API](https://www.3dsellers.com/channel-integration/3dsellers-api)** - products, listings, orders and bulk actions on every connected channel. Reference: [api.3dsellers.com/docs](https://api.3dsellers.com/docs)
 
 ## Links
